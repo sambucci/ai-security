@@ -36,5 +36,6 @@ Corrections are acted on with evidence, and credited.
 ## Licence
 
 Prose is licensed [CC BY-ND 4.0](LICENSE): share it anywhere with attribution, do not publish
-modified versions. The configuration and code snippets inside the guides are MIT, so you can adapt
-them into your own setup and redistribute the result freely.
+modified versions. All code and configuration inside these pieces is MIT, so you can adapt it into
+your own setup and redistribute the result freely. Translations are welcome, just ask first.
+Full terms in [LICENSING.md](LICENSING.md).
