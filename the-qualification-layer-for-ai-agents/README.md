@@ -1,6 +1,6 @@
 # The Qualification Layer for AI Agents
 
-*Luca Sambucci. Originally published on [Are We Safe Yet](https://www.arewesafeyet.com/the-qualification-layer-for-ai-agents/).*
+*Luca Sambucci. Originally published on [Are We Safe Yet](https://www.arewesafeyet.com/the-qualification-layer-for-ai-agents/), 4 August 2026.*
 *[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)*
 
 > *"They're coming out of the goddamn walls."* — Pvt. Hudson, Aliens (1986)

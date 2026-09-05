@@ -19,7 +19,7 @@ so they can be read, cited, forked and corrected in the open.
   Agents change their own risk surface between deployments, so procurement-time testing expires the
   moment somebody drops a file into a context window. What is missing is not more red-teaming but
   qualification: a decision, dated, against a named threat model, at declared thresholds.
-  Originally published on [Are We Safe Yet](https://www.arewesafeyet.com/the-qualification-layer-for-ai-agents/).
+  Originally published on [Are We Safe Yet](https://www.arewesafeyet.com/the-qualification-layer-for-ai-agents/), 4 August 2026.
 
 ## Guides
 
