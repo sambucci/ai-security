@@ -6,7 +6,7 @@
 ██║  ██║██║    ███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║
 ╚═╝  ╚═╝╚═╝    ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝
 
-ARTICLES  1                      GUIDES  1                       SAMBUCCI.COM
+ARTICLES  2                      GUIDES  1                       SAMBUCCI.COM
 ```
 
 Articles and guides by [Luca Sambucci](https://www.sambucci.com), AI security consultant in Rome and
@@ -20,6 +20,11 @@ so they can be read, cited, forked and corrected in the open.
   moment somebody drops a file into a context window. What is missing is not more red-teaming but
   qualification: a decision, dated, against a named threat model, at declared thresholds.
   Originally published on [Are We Safe Yet](https://www.arewesafeyet.com/the-qualification-layer-for-ai-agents/), 4 August 2026.
+
+- **[100% AI?](how-i-use-ai-for-writing/)**
+  What an AI text detector measures, and what it cannot: who chose the argument, who checked the
+  numbers, who answers for the result. A breakdown of how the work is actually divided between a
+  writer and the machine. In English and Italian.
 
 ## Guides
 
