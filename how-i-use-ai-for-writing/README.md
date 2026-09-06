@@ -35,6 +35,8 @@ If the count is of how many people answer for what you have just read, the numbe
 
 ---
 
+# 100% AI?
+
 ## Come scrivo con l'AI
 
 Se date uno dei miei articoli in pasto a un rilevatore di testo generato, con buona probabilità la risposta sarà quella lì sopra, senza punto interrogativo. Ha ragione? Forse no, magari sì, ma comunque non serve a niente.
