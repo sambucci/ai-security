@@ -5,7 +5,7 @@
 
 ## How I use AI for writing
 
-If you feed one of my articles to an AI text detector, the answer will most likely be the line above, without the question mark. Is it right? Maybe, maybe not. Either way it tells you nothing worth knowing.
+If you feed one of my articles to an AI text detector, the answer will most likely be the title above, without the question mark. Is it right? Maybe, maybe not. Either way it tells you nothing worth knowing.
 
 What the detector recognizes is the statistical signature of the machine that put the words in that order, a regular, recognizable print that says which system the text passed through. It doesn't say who thought of the subject, chose the argument, the structure, the points worth making and the ones worth dropping. Who checked the numbers, who decided the piece was done. Different questions, and they all have the same answer.
 
@@ -39,7 +39,7 @@ If the count is of how many people answer for what you have just read, the numbe
 
 ## Come scrivo con l'AI
 
-Se date uno dei miei articoli in pasto a un rilevatore di testo generato, con buona probabilità la risposta sarà quella lì sopra, senza punto interrogativo. Ha ragione? Forse no, magari sì, ma comunque non serve a niente.
+Se date uno dei miei articoli in pasto a un rilevatore di testo generato, con buona probabilità la risposta sarà il titolo qui sopra, senza punto interrogativo. Ha ragione? Forse no, magari sì, ma comunque non serve a niente.
 
 Quello che il rilevatore riconosce è la firma statistica della macchina che ha messo le parole in quell'ordine, un'impronta regolare e riconoscibile che dice da quale sistema è passato il testo. Non dice chi ha pensato all'argomento, ha scelto la tesi, la struttura, i punti da discutere e quelli da scartare. Chi ha verificato i numeri, chi ha deciso che il pezzo era finito. Sono domande diverse e hanno tutte la stessa risposta.
 
